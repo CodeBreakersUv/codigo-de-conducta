@@ -1,6 +1,6 @@
 <h1 style="text-align:center;"> CodeBreakers Uv - Code of Conduct :page_with_curl:</h1>
 
-## Why a code of conduct?
+## Why a code of conduct? :question:
 
 A primary goal of `CodeBreakers` is to be inclusive to the largest number of
 members, with the most varied and diverse backgrounds possible. As such, we
@@ -43,7 +43,7 @@ The following behaviors are considered unacceptable within our community:
 - Advocating for, or encouraging, any of the above behavior.
 - Sustained disruption of community events, including talks and presentations.
 
-## Consequences of Unacceptable Behavior
+## Consequences of Unacceptable Behavior 
 
 Unacceptable behavior from any community member, including sponsors and those
 with decision-making authority, will not be tolerated.
